@@ -34,6 +34,6 @@ sleep(5)
 driver.save_screenshot('/home/suelen/Documentos/Aprendendo a testar/evidencias_aprendendotestar/cenário8/2_Após atualização.png')
 sleep(5)
 
-# driver.quit()
+driver.quit()
 
 
